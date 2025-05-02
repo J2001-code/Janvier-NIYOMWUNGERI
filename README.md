@@ -26,7 +26,7 @@ This project highlights the use of interfaces, data encapsulation, and role-base
 
 ---
 
-## Author
+## Author:
 **Janvier NIYOMWUNGERI**  
 [GitHub Profile](https://github.com/J2001-code)
 
